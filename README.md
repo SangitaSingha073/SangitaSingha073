@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sangita! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Scienctist+%7c+AI+Engineer+%7C+ML+Engineer;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Tableau+%7C+Machine+Learning;Willing+TO+Learn+New+Techniques" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Data+Scienctist+%7c+AI+Engineer+%7C+ML+Engineer;Turning+Raw+Data+into+Meaningful+Insights;Python+%7C+SQL+%7C+Tableau+%7C+Machine+Learning;Willing+TO+Learn+New+Technologies" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
